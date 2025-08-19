@@ -1,15 +1,16 @@
-p{
+p {
     color: red;
 }
 
-#uno{
+#uno {
     background-color: greenyellow;
 }
 
-.centrado{
+.centrado {
     text-align: center;
 }
 
-.negrita{
-    font-weight:bold;
+.negrita {
+    font-weight: bold;
+    /* ola */
 }
